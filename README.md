@@ -8,14 +8,18 @@ Permite analizar un archivo y obtener el metadato(informacion oculta), datos com
 
 El programa esta enfocado en imagenes con las sigiuentes extenciones:
 	.BMP,.JPG,.GIF,.PNG y .TIFF
+ 
 Tambien se incorporo otro tipo de archivo como:
 	.PDF Y .DOC
 
 ## COMO FUNCIONA
 
 Tiene 3 botones habilitados:
+
 -> [A] Permite analizar el archivo seleccionado.
+
 -> [B] Permite buscar un archivo para analizar.
+
 -> [C] Permite desplegar un pequeño panel de configuracion, solo para color de fondo del programa.
 
 # Archivos sin metadatos:
